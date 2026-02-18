@@ -1,0 +1,7 @@
+File in same directory
+Python language is easy to Learn.
+Lorem ipsum, dolor sit amet consectetur, adipisicing elit. 
+Libero pariatur, animi facilis perspiciatis commodi distinctio, dicta molestias odit quas officia voluptate velit voluptatibus minima illum ab explicabo provident aspernatur. 
+Voluptas reprehenderit, ipsam, nulla voluptates ad corporis omnis temporibus non ex maxime nostrum nam labore quod odio suscipit praesentium itaque ratione vitae corrupti consequatur libero quam officiis. 
+A, culpa perferendis nostrum tempora deleniti tenetur ipsa rerum dolores temporibus assumenda explicabo, fuga doloribus obcaecati modi nam hic, officia recusandae qui excepturi sunt, molestias doloremque. 
+Cum dolor, sed dolore necessitatibus possimus doloremque iusto. Ut nesciunt nemo, ipsum eveniet, temporibus veniam reiciendis nostrum quis.
