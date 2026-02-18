@@ -1,0 +1,11 @@
+program 1 :
+lines :10
+words :166
+characters :1090
+program 2 :
+word :Python
+exist :True
+Count :8
+program 2 :
+word :Dhruv
+exist :False
