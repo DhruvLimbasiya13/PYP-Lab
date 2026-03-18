@@ -1,0 +1,10 @@
+py is a high level , general purpose programming language .
+Its design philosophy emphasizes code readability with the use of significant indentation .
+py is dynamically type checked and garbage collected .
+It supports multiple programming paradigms , including structured ( particularly procedural ), object oriented and functional programming .
+Guido van Rossum began working on py in the late 1980s as a successor to the ABC programming language.
+py 3.0, released in 2008, was a major revision and not completely backward-compatible with earlier versions.
+Beginning with py 3.5 , capabilities and keywords for typing were added to the language, allowing optional static typing. 
+As of 2026, the py Software Foundation supports py 3.10, 3.11, 3.12, 3.13, and 3.14, following the project's annual release cycle and five-year support policy.
+py 3.15 is currently in the alpha development phase, and the stable release is expected to come out in October 2026.
+Earlier versions in the 3.x series have reached end-of-life and no longer receive security updates.

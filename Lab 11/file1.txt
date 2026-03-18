@@ -9,3 +9,27 @@ Count :8
 program 2 :
 word :Dhruv
 exist :False
+program 4 :
+max :89
+min :10
+
+program 4 :
+max :89
+min :10
+
+program 5 :
+python java sql c 
+
+program 6 :
+apple :3
+mango :2
+banana :1
+orange :1
+
+program 7 :
+101 dhruv grade :B
+102 rajarshi grade :B
+103 labdhi grade :C
+104 archana grade :B
+105 rucha grade :F
+106 jeel grade :B
